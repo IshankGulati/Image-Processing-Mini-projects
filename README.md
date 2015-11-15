@@ -1,0 +1,1 @@
+These are some fun, introductory image processing projects. For more details visit my website [ishankgulati.github.io](ishankgulati.github.io).
